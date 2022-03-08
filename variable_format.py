@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# Created by: Seti Ngabo
-# Created on: Sept 2021
+# Created by: Huzaifa Khalid
+# Created on: March 2022
 # This program shows how local and global variables work
 
 # global variable
